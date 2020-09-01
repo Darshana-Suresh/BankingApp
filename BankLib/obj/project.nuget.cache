@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TwNLzVPoeIXhs2pC3w8WiMNy2lICSSR2HQfil//89a9fCqfToCDd+wXxMzOADRfEMGprYAG7CVAUEqx/n4Sz3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\darsh\\source\\repos\\MyBank\\BankLib\\BankLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\darsh\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\darsh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\darsh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

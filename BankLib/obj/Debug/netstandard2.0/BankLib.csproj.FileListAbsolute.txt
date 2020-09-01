@@ -1,0 +1,8 @@
+C:\Users\darsh\source\repos\MyBank\BankLib\bin\Debug\netstandard2.0\BankLib.deps.json
+C:\Users\darsh\source\repos\MyBank\BankLib\bin\Debug\netstandard2.0\BankLib.dll
+C:\Users\darsh\source\repos\MyBank\BankLib\bin\Debug\netstandard2.0\BankLib.pdb
+C:\Users\darsh\source\repos\MyBank\BankLib\obj\Debug\netstandard2.0\BankLib.csprojAssemblyReference.cache
+C:\Users\darsh\source\repos\MyBank\BankLib\obj\Debug\netstandard2.0\BankLib.AssemblyInfoInputs.cache
+C:\Users\darsh\source\repos\MyBank\BankLib\obj\Debug\netstandard2.0\BankLib.AssemblyInfo.cs
+C:\Users\darsh\source\repos\MyBank\BankLib\obj\Debug\netstandard2.0\BankLib.dll
+C:\Users\darsh\source\repos\MyBank\BankLib\obj\Debug\netstandard2.0\BankLib.pdb

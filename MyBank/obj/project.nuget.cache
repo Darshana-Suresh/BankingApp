@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XvJRQ3GHC5yQgw9AQ3bOfDHmLqkLRB/7xeTvpPsp1wyq01odQtwubDNAUi6qmf+qZ5N8e6Cl7rYhuKs/ifickw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\darsh\\source\\repos\\MyBank\\MyBank\\MyBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\darsh\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512"
+  ],
+  "logs": []
+}
